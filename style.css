@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+.sortable-list {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+
+.sortable-list li {
+    display: flex;
+    align-items: center;
+}
